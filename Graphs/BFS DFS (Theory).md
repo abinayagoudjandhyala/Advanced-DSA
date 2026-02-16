@@ -99,3 +99,12 @@ Go **deep into a path** before exploring other paths.
 * BFS Traversal (theory)
 * DFS Traversal (theory)
 
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/de63c5ee-4914-4611-aabf-03acec61de9a" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/93565a14-a8b4-429c-aefb-93ef30748897" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/f335f95b-6c57-4213-9fc2-bf148999616c" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/0aaf8b35-4874-43dc-a1ec-f2d370094265" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/9160d1cf-583b-471a-a818-9aa0a304c247" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/560740e2-1e62-4416-9361-69822cd3883b" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/7dd9b4c1-32c4-4ccc-933d-be55766cbbfd" />
+
+
